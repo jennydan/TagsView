@@ -15,6 +15,7 @@
 		D6D1E8F61EBC605000AAE4E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6D1E8F41EBC605000AAE4E5 /* LaunchScreen.storyboard */; };
 		D6D1E9011EBC605000AAE4E5 /* TagsViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D6D1E9001EBC605000AAE4E5 /* TagsViewTests.m */; };
 		D6D1E90C1EBC605000AAE4E5 /* TagsViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D6D1E90B1EBC605000AAE4E5 /* TagsViewUITests.m */; };
+		D6D1E91B1EBC610400AAE4E5 /* TagsView.m in Sources */ = {isa = PBXBuildFile; fileRef = D6D1E91A1EBC610400AAE4E5 /* TagsView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		D6D1E9071EBC605000AAE4E5 /* TagsViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TagsViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6D1E90B1EBC605000AAE4E5 /* TagsViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TagsViewUITests.m; sourceTree = "<group>"; };
 		D6D1E90D1EBC605000AAE4E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D6D1E9191EBC610400AAE4E5 /* TagsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TagsView.h; sourceTree = "<group>"; };
+		D6D1E91A1EBC610400AAE4E5 /* TagsView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TagsView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				D6D1E8EA1EBC605000AAE4E5 /* AppDelegate.m */,
 				D6D1E8EC1EBC605000AAE4E5 /* ViewController.h */,
 				D6D1E8ED1EBC605000AAE4E5 /* ViewController.m */,
+				D6D1E9191EBC610400AAE4E5 /* TagsView.h */,
+				D6D1E91A1EBC610400AAE4E5 /* TagsView.m */,
 				D6D1E8EF1EBC605000AAE4E5 /* Main.storyboard */,
 				D6D1E8F21EBC605000AAE4E5 /* Assets.xcassets */,
 				D6D1E8F41EBC605000AAE4E5 /* LaunchScreen.storyboard */,
@@ -276,6 +281,7 @@
 				D6D1E8EE1EBC605000AAE4E5 /* ViewController.m in Sources */,
 				D6D1E8EB1EBC605000AAE4E5 /* AppDelegate.m in Sources */,
 				D6D1E8E81EBC605000AAE4E5 /* main.m in Sources */,
+				D6D1E91B1EBC610400AAE4E5 /* TagsView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
